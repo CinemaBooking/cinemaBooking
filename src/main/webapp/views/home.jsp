@@ -326,7 +326,7 @@
             </nav>
          </div>
       </div>
-      <!-- kjdffhfkd -->
+      <!-- carousel -->
       <div id="main-carousel" data-ride="carousel" class="carousel slide">
          <ol class="carousel-indicators hidden-sm hidden-xs">
             <li data-target="#main-carousel" data-slide-to="0" class=""></li>
